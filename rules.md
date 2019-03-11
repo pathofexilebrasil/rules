@@ -13,7 +13,6 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
   * [Seja gentil](#seja-gentil)
   * [Responsabilidade individual](#responsabilidade-individual)
   * [Arquivos e links](#arquivos-e-links)
-  * [Canais](#canais)
   * [Bots e integrações](#bots-e-integrações)
   * [Sugestões e melhorias](#sugestões-e-melhorias)
 
