@@ -73,7 +73,7 @@ Este grupo é voltado para jogadores de Path Of Exile. Mensagens com cunho unica
 
 Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do grupo ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Telegram, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
 
-## Regras de etiqueta - Telegram
+## Regras de etiqueta
 
 ### Comandos
 
