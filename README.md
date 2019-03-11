@@ -1,9 +1,4 @@
-
-Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/Code-Of-Conduct
-
-*Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
-
---
+**PathOfExileBrasil**
 
 * [Código de Conduta](#c%C3%B3digo-de-conduta)
 * [Como participar do grupo?](#como-participar-do-grupo)
