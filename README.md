@@ -1,4 +1,4 @@
-**PathOfExileBrasil**
+#PathOfExileBrasil*
 
 * [Código de Conduta](#c%C3%B3digo-de-conduta)
 * [Como participar do grupo?](#como-participar-do-grupo)
