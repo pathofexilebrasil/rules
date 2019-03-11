@@ -15,7 +15,6 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
   * [Arquivos e links](#arquivos-e-links)
   * [Canais](#canais)
   * [Bots e integrações](#bots-e-integrações)
-  * [Conhecendo o Slack](#conhecendo-o-slack)
   * [Sugestões e melhorias](#sugestões-e-melhorias)
 
 ## Código de Conduta
