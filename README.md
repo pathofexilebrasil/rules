@@ -1,4 +1,4 @@
-
+![Image of Yaktocat](https://www.policymed.com/wp-content/uploads/2017/05/Changing-the-Rules-Again.png)
 
 ## PathOfExileBrasil
 
