@@ -59,7 +59,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 A moderação se reserva o direito de verificar a autenticidade de usuários suspeito de cometer _impersonation_. A verificação será privada entre a moderação e o usuário.
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
-Essa é a lista de moderadores e seus respectivos IDs do Slack:**
+Essa é a lista de moderadores e seus respectivos IDs do Telegram:**
 
 * **Allan Lopes Prado** - @allanlopesprado
 
