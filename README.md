@@ -1,3 +1,5 @@
+
+
 ## PathOfExileBrasil
 
 * [Código de Conduta](#c%C3%B3digo-de-conduta)
