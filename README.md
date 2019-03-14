@@ -15,7 +15,7 @@
 
 ## Código de Conduta
 
-O grupo **PathOfExileBrasil** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O grupo **Path of Exile Brasil** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -24,7 +24,7 @@ O grupo **PathOfExileBrasil** deve ser um lugar seguro e convidativo para pessoa
 - Idade
 - Religião
 
-Como membro deste PathOfExileBrasil, você concorda que:
+Como membro do grupo Path of Exile Brasil, você concorda que:
 
 * Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
 * Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
@@ -73,13 +73,13 @@ Este grupo é voltado para jogadores de Path Of Exile. Mensagens com cunho unica
 
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
-Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do grupo ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Telegram, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
+Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do grupo ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a redes sociais ou aplicativo de mensagens instantâneas.
 
 ## Regras de etiqueta
 
 ### Comandos
 
-/admin - Solicita presença admin!
+@admin - Solicita presença admin!
 
 ### Dúvidas
 
@@ -101,12 +101,12 @@ Preste atenção em seus posts para manter a comunicação agradável e interess
 
 ### Responsabilidade individual
 
-Todas as mensagens enviadas no Telegram, através de meios públicos ou privados, são de inteira responsabilidade do autor. O PathOfExileBrasil potencializa a comunicação entre jogadores de todo Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
-O PathOfExileBrasil não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas, tome cuidado com para não enviar credenciais. Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
+Todas as mensagens enviadas no Telegram, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Path of Exile Brasil potencializa a comunicação entre jogadores de todo Brasil, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
+O Path of Exile Brasil não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas, tome cuidado com para não enviar credenciais. Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
 
 ### Arquivos e links
 
-O PathOfExileBrasil não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
+O Path of Exile Brasil não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
 
 A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Violem propriedades privadas,
@@ -116,7 +116,7 @@ Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem
 
 ### Bots e integrações
 
-A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do PathOfExileBrasil.
+A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Path of Exile Brasil.
 
 ## Sugestões e melhorias
 
